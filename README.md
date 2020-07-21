@@ -13,15 +13,15 @@ Variable rate is a requirement for flexible and adaptable image and video compre
 (In our paper we use the version 1.1 for our MAE method without hyperprior and version 1.2 with hyperprior.)
  
 # Illustration
-![figure](./figs/principle_mae.png)
+![figure](./figs/principle.png)
 
 # Framework 
 <br>
-<p align="center"><img width="100%" height='60%'src="figs/MAE.png" /></p>
+<p align="center"><img width="80%" height='40%'src="figs/mae.png" /></p>
 
 # Results 
 <br>
-<p align="center"><img width="100%" height='60%'src="figs/clic.png" /></p>
+<p align="center"><img width="80%" height='40%'src="figs/clic.png" /></p>
 
 # Main references 
 Our work heavily relys on the following projects: 
