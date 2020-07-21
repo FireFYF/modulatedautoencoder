@@ -11,9 +11,6 @@ Variable rate is a requirement for flexible and adaptable image and video compre
 # Installation 
 - Install compression library with version 1.1 (https://github.com/tensorflow/compression/releases/tag/v1.1).
 (In our paper we use the version 1.1 for our MAE method without hyperprior and version 1.2 with hyperprior.)
- 
-# Illustration
-![figure](./figs/principle.png)
 
 # Framework 
 <br>
