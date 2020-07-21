@@ -1,4 +1,4 @@
-# Variable Rate Deep Image Compression with Modulated Autoencoder 
+# Variable Rate Deep Image Compression with Modulated Autoencoders 
 ### [[paper]](https://ieeexplore.ieee.org/document/8977394)
 
 # Abstract: 
@@ -7,7 +7,6 @@ Variable rate is a requirement for flexible and adaptable image and video compre
 # Dependences 
 - NumPy, SciPy, NVIDIA GPU
 - **Data Compression Library:** (https://github.com/tensorflow/compression), thanks to Johannes Ballé, Sung Jin Hwang, and Nick Johnston
-- **Dataset:** CLIC or larger high quality dataset
 
 # Installation 
 - Install compression library with version 1.1 (https://github.com/tensorflow/compression/releases/tag/v1.1).
@@ -25,7 +24,7 @@ Variable rate is a requirement for flexible and adaptable image and video compre
 <p align="center"><img width="100%" height='60%'src="figs/clic.png" /></p>
 
 # Main references 
-Our work heavily rely on the following projects: 
+Our work heavily relys on the following projects: 
 - \[1\] 'Lossy Image Compression with Compressive Autoencoders' by Theis et. al, https://arxiv.org/abs/1703.00395
 - \[2\] 'End-to-end Optimized Image Compression' by Ballé et. al, https://arxiv.org/abs/1611.01704
 - \[3\] 'Variational image compression with a scale hyperprior' by Ballé et. al, https://arxiv.org/abs/1802.01436
