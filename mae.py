@@ -13,7 +13,6 @@ import numpy as np
 import tensorflow as tf
 import tensorflow_compression as tfc 
 
-
 def load_image(filename):
     """Loads a PNG image file."""
     string = tf.read_file(filename)
